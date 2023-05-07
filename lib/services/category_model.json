@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "name": "Men Clothing & Fashion",
+      "subcategory": [
+        "Outwear & Jackets",
+        "Formal Dress",
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Computer & Accessories",
+      "subcategory": [
+        "Laptop",
+        "Gaming PC",
+        "Official Equipment"
+      ]
+    },
+    {
+      "name": "Automobile",
+      "subcategory": [
+        "Cars",
+        "Bikes"
+      ]
+    },
+    {
+      "name": "Kids & Toys",
+      "subcategory": [
+        "Baby Clothing",
+        "Shoes & Bags",
+        "Girl Toys"
+      ]
+    },
+    {
+      "name": "Sports",
+      "subcategory": [
+        "Cycling",
+        "Sneakers",
+        "Swimming"
+      ]
+    },
+    {
+      "name": "Cellphone & Tab",
+      "subcategory": [
+        "Mobiles",
+        "Tabs",
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Jewelery",
+      "subcategory": [
+        "Necklace",
+        "Gold",
+        "Earring"
+      ]
+    },
+    {
+      "name": "Groceries",
+      "subcategory": [
+        "Meat & Fish",
+        "Vegetables and fruit",
+        "Snacks"
+      ]
+    },
+    {
+      "name": "Furniture",
+      "subcategory": [
+        "Bed",
+        "Sofa"
+      ]
+    }
+  ]
+}
